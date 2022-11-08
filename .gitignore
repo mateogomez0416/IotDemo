@@ -1,3 +1,6 @@
+#MCUXpreso
+/K32L2B31A_IOT_demo/Debug/
+/K32L2B31A_IOT_demo/Release/
 # Prerequisites
 *.d
 
@@ -50,3 +53,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.metadata/
